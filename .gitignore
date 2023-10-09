@@ -23,3 +23,6 @@ build/
 # Logs and databases
 *.log
 *.sqlite3
+
+# Custom files
+temp.txt

@@ -5,4 +5,3 @@ requests==2.31.0
 semantic-kernel==0.3.13.dev0
 stringify==0.1.1
 Werkzeug==3.0.0
-os
