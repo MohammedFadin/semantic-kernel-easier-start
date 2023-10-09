@@ -1,0 +1,8 @@
+Flask==3.0.0
+jsonify==0.5
+python-dotenv==1.0.0
+requests==2.31.0
+semantic-kernel==0.3.13.dev0
+stringify==0.1.1
+Werkzeug==3.0.0
+os
