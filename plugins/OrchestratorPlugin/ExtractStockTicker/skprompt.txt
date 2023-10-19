@@ -1,0 +1,12 @@
+Examples:
+INPUT: Tell me more about stock AGLTY?
+OUTPUT: AGLTY
+INPUT: What is the price of AIRARABIA?
+OUTPUT: AIRARABIA
+INPUT: what is the perf of AIRARABIA?
+OUTPUT: AIRARABIA
+
+Extract the stock ticker from the user input and output it as a String.
+-------
+INPUT: {{$input}}
+OUTPUT:

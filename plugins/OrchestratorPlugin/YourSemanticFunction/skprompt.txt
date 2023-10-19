@@ -1,0 +1,10 @@
+Examples:
+INPUT: Tell me more about YOUR_INPUT_HERE?
+OUTPUT: Microsoft is a tech giant known for Windows, Office, Azure cloud, Surface devices, Xbox gaming, and software development tools. It's led by CEO Satya Nadella and is involved in philanthropy through the Gates Foundation.
+INPUT: What do you know about YOUR_INPUT_HERE?
+OUTPUT: IBM, founded in 1911, offers technology solutions, including mainframe computers, AI (Watson), cloud services, and consulting. It acquired Red Hat and is a leader in quantum computing.
+
+DESCRIBE_THE_TASK_TO_AZURE_OPENAI
+-------
+INPUT: {{$input}}
+OUTPUT:

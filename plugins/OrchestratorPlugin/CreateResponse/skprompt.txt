@@ -1,0 +1,6 @@
+Please provide a summary about a company, and its stock price performance which includes trade volume and last closing price.
+
+Your answer should be based on the information provided here {{$input}}
+
+User: {{$original_input}}
+Bot:
